@@ -4,14 +4,14 @@
   <div style="width: 70%; color: #f5f5f5;">
     <h1 style="margin-bottom: 10px;">⚡ Hey, I’m <span style="color:#00d4ff;">Shreya (@justcallshreya)</span></h1>
     
-    <p style="font-size: 16px; line-height: 1.6;">
+  <p style="font-size: 16px; line-height: 1.6;">
       💻 MERN Stack Developer | Skilled in <strong>HTML, CSS, JS, Bootstrap, Tailwind, React, Node, Express, MongoDB, MySQL</strong> <br>
       🌐 Web Development Enthusiast | 🔥 Problem Solver | 🚀 Tech Explorer <br>
       🧑‍💻 Exploring the power of <strong>C, C++, Python, Java</strong> <br>
       🤝 Always up for teaming up on fun coding projects and challenges!
     </p>
     
-    <p style="margin-top: 15px; font-size: 15px;">
+  <p style="margin-top: 15px; font-size: 15px;">
       📩 Reach out: <a href="mailto:khandelwalharshit2024@gmail.com" style="color:#00d4ff; text-decoration:none;">khandelwalharshit2024@gmail.com</a> <br>
       ✨ Let’s Code Something Amazing Together! ✨
     </p>
